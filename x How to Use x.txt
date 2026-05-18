@@ -11,7 +11,7 @@ STEP 1: HOW TO IMPORT SETTING PROFILES:
 
 — Select Import  
 
-— Import the file  
+— Import the profile folder one by one
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
